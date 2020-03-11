@@ -28,24 +28,24 @@ This is the same as of a person in a real life discovered your store exists.If t
 
 ### F 1:09 - 1:20
 
-By counting these clicks from search results to your website, you can measure visits. What is the person on your site, they'd browse around loolking at various products.
+By counting these clicks from search results to your website, you can measure visits. Once the person on your site, they might browse around look at various products.
 
 ### G 1:21 - 1:38
 
-You can track a part of route the website and see how long you take the time to buy something.Or maybe they are left the site after clicking a few pages.
+You can track their paths across the website and see how long it took them to buy something.Or maybe they are left the site after clicking a few pages.
 
-You or the ordered person who administartes the site can use the right of tools to measure queries, impressions, clicks and user's paths to watch the checkout.
+You or the person who maintains your site can use the variety of tools to measure queries, impressions, clicks and the user's paths to watch the checkout.
 
 ### H 1:39 - 1:50
 
-Most of E-commerce platforms have the dashboard to track these metrics.Google provides two free tools, "Search Console" and "Google Analytics", that like you to look at these metircs self.
+Most of E-commerce platforms offer their own dashboard for tracking these metrics.Google provides two free tools, "Search Console" and "Google Analytics", that allow you to look at these metircs yourself.
 
 ### I 1:51 - 2:12
 
-What is your goals?What do you want to measure?Once you decide that, use your analytics tools and connect the metrics you have.The important thing is that you can keep track in happening your own website.
+What are your goals?What do you want to measure?Once you decide that, use your analytics tools and connect them to the metrics you have.The important thing is that you can keep track of what's happening on your website.
 
-Whether its visitors, conversion rates or revenue by following this information, you can make an important adjustmentns and changes as your need.
+Whether its visitors, conversion rates or revenue by following this information, you can make important adjustments and changes as needed.
 
 ### J 2:13 - 2:37
 
-You can even gain the sites customers maybe are interested in and expand your product catalog.Don't waste your website metrics and data.Use them and Make sure to watch the next episode in which you discuss how to find someone tell you to get people on the web. 
+You can even gain insites on waht your customers maybe interested in,and expand your product catalog.Don't just let  your website's metrics sit there.Use them and make sure to watch the next episode in which you discuss how to find someone to help you to get on the web. 
