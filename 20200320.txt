@@ -41,3 +41,19 @@ Once you've find web designers or the developers that meet your standards,get in
 Once you've found someone to work with you, you'll need to meet and review the content and the structure of your site.How many pages shoud it have?
 
 How will your users click from one place to another?Always make sure to clearly explain your goals. As we recovered in the last video,so the developer knows exactly what you want to achieve. 
+
+### I 2:04 - 2:13
+
+This process takes anywhere a few weeks or a few month.And the features like shoping cart and payment processing of the development time.  
+
+### J 2:14 - 2:26
+
+Make sure to test everything who you trust. Does your website look and function correctly across the devices in browseres.Keep in mind.Your site will need to be updated the regular basis. 
+
+### K 2:27 - 2:41
+
+And you may need to add the information about the new products during the 〇〇 technical maintainance. So make sure your developer is able to maintain your site and add the new content to the feature.Or that is to teach you how to use the tools so that you feel comfortable doing yourself.
+
+### L 2:41 - 2:54
+
+And now your site is life.But the work is just gettting started. Be sure to check out next episode,"Understanding Google Search".And don't forget to subscribe.
