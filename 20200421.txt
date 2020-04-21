@@ -12,7 +12,7 @@ Undestanding how Google Search works is essential.If you have an online business
 
 ### C 0:31 - 0:45 
 
-First of all, Google needs to realize your business has a prsence on the web.For this Google constantly searches for new conntents to add its huge catalog.This is the discovery process is called "Crawling".
+First of all, Google needs to realize your business has a prsence on the web.For this Google constantly searches for new content to add its huge catalog.This is the discovery process is called "Crawling".
 
 ### D 0:46 - 1:02
 
