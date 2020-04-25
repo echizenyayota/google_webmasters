@@ -17,3 +17,21 @@ First of all, Google needs to realize your business has the prsence on the web.F
 ### D 0:46 - 1:02
 
 Google generally discovers the web pages by following links from page to page.Finding a new content in 〇〇 scene.Once the Google crwaler which is called "Google bot" has find out your website, it has understand what the content is all about.This process is called "Indexing".
+
+### E 1:03 - 1:18
+
+Just as your onrganized inventory of your store whether there're shoes, sweaters and dresses.Google analyzes the content and a new page and saves the information to its index.A databases is considered to be the biggest library and world.
+
+### F 1:19 - 1:26
+ 
+How can you hellp the "Google Index" understand your contents better? Learn more about that at the link and description blog.
+
+### G 1:27 - 1:47 
+
+All right, Now Google has found out your website and Google bot knows you have an online shop to sell clothes.What happens next?
+
+When a user type a search query, Google systems searches throuh hundred of billions web pages in the serach indexes.Looking for the most useful and 〇〇 the results in a fraction of the second.
+
+### H 1:48 - 1:57 
+
+This step is the ranking. For a typical query there are thousands and millions of web pages with the potentially relative information.
