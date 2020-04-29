@@ -42,7 +42,7 @@ Google has to determine the highest quarity and most relevant answers,retruning 
 
 ### J 2:14 - 2:23 
 
-For example, searching for "Buy a nice shirt",my might show different answers to a user searching from New York than it would to a user searching from Miami.
+For example, searching for "Buy a nice shirt", might show different answers to a user searching from New York than it would to a user searching from Miami.
 
 ### K 2:24 - 2:37
 
