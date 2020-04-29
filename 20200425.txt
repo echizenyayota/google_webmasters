@@ -38,12 +38,12 @@ This step is called ranking. For a typical query there are thousands,evev millio
 
 ### I 1:58 - 2:13
 
-Google has to turn the highest quarity and most relevant answers.Retruning the content and provide is the best user's experience and most appropriate results.Some of these factors mainly include user's location, language and device type. 
+Google has to determine the highest quarity and most relevant answers,retruning the content that provides the best user experience,and most appropriate results.Some of these factors may include user's location, language and device type. 
 
 ### J 2:14 - 2:23 
 
-For example, searching for "Buy nice shirts",my 〇〇 are different answers to a user searching from New York.Then it would turn a user searching from Miami.
+For example, searching for "Buy a nice shirt",my might show different answers to a user searching from New York than it would to a user searching from Miami.
 
 ### K 2:24 - 2:37
 
-Remeber Google search's results are organic.And generatedly satisfied and relative 〇〇 make thousands of calculations for each search in a franction of second based only under the relevance web page to the user's query Google.
+Remeber,Google Search results are organic.And generated through sofiscated algotithms to make thousands of calculations for each search in a franction of a second,based only the relevance of a page to the user's query.
