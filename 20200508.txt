@@ -8,20 +8,20 @@ How do I know is my website is serachable by Google?People who own a website whe
 
 ### B 0:13 - 0:22
 
-Sometimes the sites find out the lists.Sometimes they do not. Wondering why?How do you get your website to appear in a search?To check is that Google knows your website.
+Sometimes they find their website listed,sometimes they do not. Wondering why?How do you get your websites to appear in a search?To check if Google knows your website.
 
 ### C 0:23 - 0:46 
 
-Or if your web site is indexed in Google at all,type "site:" followed by your website's address to Google.Searching Google using "site:" in front of a domain specifized your only one to see search results that's the specific site.If your website appears here, it means Google knows your website exists and has already put on some of the pages in indexes.
+Or if your web site is indexed in Google at all,type "site:" followed by your website's address into Google.Searching Google using "site:" in front of a domain specifized you only want to see search results that's the specific site.If your website appears here, it means Google knows your website exists and has already put on some of its pages in index.
 
 
 ### D 0:47 - 1:08
 
-What is indexing? Check out the video explaining how Google Search works in the description below.Know this how your site showing up in Google Search. Is your description text precise?And do your presentive of your wesite offers?If you don't see your website in site call in serach, it could be a few problems how your site has been crawled and indexed.
+What is indexing? Check out the video explaining how Google Search works in the description below.Know this how your site showing up in Google Search. Is your description text precise?And representive of your wesite offers?If you don't see your website offers?If you don't see your website in a site colon serach, there could be a few problems how your site has been crawled and indexed.
 
 ### E 1:09 - 1:25
 
-To remedy this you can submit your sitemap and URLs to "Google Search Console",a tool for managing an online presence on Google Search.You can also test URls using the URL inspection tool.Now there're your verified, Google knows about your website.
+To remedy this you can submit your sitemap and URLs to "Google Search Console",a tool for managing an online presence on Google Search.You can also test URls using the URL inspection tool.Now that you're verified, Google knows about your website.
 
 ### F 1:26 - 1:45
 
